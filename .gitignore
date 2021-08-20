@@ -1,0 +1,9 @@
+node_modules/
+build/
+logs/
+.env
+.idea
+tz.docx
+
+src/app/.notes
+
